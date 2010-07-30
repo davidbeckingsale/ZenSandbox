@@ -61,7 +61,7 @@
 <?php endif; ?>
 
 		</div><!-- #content -->
-	</div><!-- #container -->
 
 <?php get_sidebar() ?>
 <?php get_footer() ?>
+	</div><!-- #container -->
