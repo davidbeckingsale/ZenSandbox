@@ -1,31 +1,31 @@
 /*
 LAYOUT: Two-Column (Right)
-DESCRIPTION: Two-column fluid layout with one sidebars right of content
+DESCRIPTION: Two-column fixed layout with the content to the left of the sidebar
 */
 div#container {
-# float:left;
-margin:auto;
-width:800px;
+    margin:auto;
+    width:800px;
 }
 
 div#content {
-margin:auto;
-margin-left: 20px;
-float: left;
-width: 620 px;
+    margin:auto;
+    padding-left: 20px;
+    float: left;
+    width: 600 px;
 }
 
 div.sidebar {
-float:right;
-overflow:hidden;
-width:180px;
+    float:right;
+    overflow:hidden;
+    width:180px;
+    padding-left: 5px;
 }
 
 div#secondary {
-clear:right;
+    clear:right;
 }
 
 div#footer {
-clear:both;
-width:100%;
+    clear:both;
+    width:100%;
 }
