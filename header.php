@@ -15,8 +15,8 @@
 <div id="wrapper" class="hfeed">
 
 	<div id="header">
-		<h1 id="blog-title"><span><a href="<?php bloginfo('home') ?>/" title="<?php echo wp_specialchars( get_bloginfo('name'), 1 ) ?>" rel="home"><?php bloginfo('name') ?></a></span></h1>
-		<div id="blog-description"><?php bloginfo('description') ?></div>
+		<h1 id="blog-title"><span><a href="<?php bloginfo('home') ?>/" title="<?php echo wp_specialchars( get_bloginfo('name'), 1 ) ?>" rel="home"><img src="http://davidbeckingsale.com/images/logoFinal.png"></a></span></h1> <!-- Here you can use bloginfo('name') to retrieve the title, but I am using a logo -->
+		<div id="blog-description">"<?php bloginfo('description') ?>"</div>
 	</div><!--  #header -->
 
 	<div id="access">
