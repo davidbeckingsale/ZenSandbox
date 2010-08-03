@@ -89,7 +89,7 @@ body {
     color: #DCDCCC;
 }
 
-div.entry-meta {
+div.entry-meta, div.entry-date {
     font-size: 12px;
 }
 
