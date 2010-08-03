@@ -244,3 +244,7 @@ div#access {
     width: 800px;
     margin: auto;
 }
+
+div#header {
+    background-color: #3F3F3F;
+}
