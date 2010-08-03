@@ -89,6 +89,10 @@ body {
     color: #DCDCCC;
 }
 
+div.entry-meta {
+    font-size: 8px;
+}
+
 /** Forms */
 form#commentform .form-label {
     margin:1em 0 0;
