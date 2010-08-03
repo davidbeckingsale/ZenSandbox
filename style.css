@@ -18,6 +18,8 @@ div.skip-link {
     top:1em;
 }
 
+/** Header */
+
 div#menu {
     background-color:#3F3F3F;
     height:1.5em;
@@ -57,11 +59,37 @@ div#menu ul li:hover ul {
     clear:both;
 }
 
+
+div#access {
+    background-color: #3F3F3F;
+    width: 800px;
+    margin: auto;
+}
+
+div#header {
+    background-color: #3F3F3F;
+    width: 800px;
+    margin: auto;
+}
+
+/** Body */
+
 div#container,div#primary {
     background-color: #3F3F3F;
     color: #DCDCCC;
 }
 
+div#content {
+    background-color: #3F3F3F;
+}
+
+body {
+    background-color: #333333;
+    font-family: Arial, Helvetica, Verdana, sans-serif;
+    color: #DCDCCC;
+}
+
+/** Forms */
 form#commentform .form-label {
     margin:1em 0 0;
 }
@@ -156,6 +184,7 @@ div#nav-images {
     margin:1em 0;
 }
 
+/** Sidebar */
 div.navigation {
     height:1.25em;
 }
@@ -217,15 +246,7 @@ div.gallery *,div.sidebar div,div.sidebar h3,div.sidebar ul {
     padding:0;
 }
 
-div#content {
-    background-color: #3F3F3F;
-}
-
-body {
-    background-color: #333333;
-    font-family: Arial, Helvetica, Verdana, sans-serif;
-    color: #DCDCCC;
-}
+/** Miscellaneous */
 
 a:link {
     color: #F0DFAF;
@@ -237,15 +258,4 @@ a:hover {
 
 a:visited {
     color: #F0DFAF;
-}
-
-div#access {
-    background-color: #3F3F3F;
-    width: 800px;
-    margin: auto;
-}
-
-div#header {
-    background-color: #3F3F3F;
-    width: 800px;
 }
