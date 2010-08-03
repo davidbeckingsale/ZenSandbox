@@ -37,7 +37,8 @@ Template Name: Archives Page
 <?php if ( get_post_custom_values('comments') ) comments_template() // Add a key/value of "comments" to enable comments on pages! ?>
 
 		</div><!-- #content -->
-	</div><!-- #container -->
+
 
 <?php get_sidebar() ?>
 <?php get_footer() ?>
+	</div><!-- #container -->
