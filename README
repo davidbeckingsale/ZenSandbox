@@ -1,1 +1,21 @@
-Welcome to ZenSandbox, a Zenburn'd and restyled version of the Sandbox wordpress theme from http://www.plaintxt.org/themes/sandbox/
+* Project Name: ZenSandbox
+* Homepage: http://www.davidbeckingsale.org/blog/ZenSandbox
+* Author: David Beckingsale
+* Original project: Sandbox at http://www.plaintext.org/themes/sandbox/
+* License: <a href="http://www.gnu.org/copyleft/gpl.html">GNU General Public License</a>
+
+* Description
+  A zenburn'd and customised version of the sandbox theme. 
+
+* Installation
+  Copy the folder into your wp-content/themes directory, select it
+  from the admin panel.
+
+* Bugs
+  Any issues - please report them on github as it will be the main
+  point of development of the theme.
+
+* Notes
+  Since the theme is still in its infancy, please be forgiving of any
+  problems and unfinished parts, I will be commiting on an almost
+  daily basis!
