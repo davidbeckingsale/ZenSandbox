@@ -250,7 +250,7 @@ div.gallery *,div.sidebar div,div.sidebar h3,div.sidebar ul {
     padding:0;
 }
 
-/** Miscellaneous */
+/** Links */
 
 a:link {
     color: #F0DFAF;
@@ -262,4 +262,12 @@ a:hover {
 
 a:visited {
     color: #F0DFAF;
+}
+
+.sidebar a:link {
+    color: #8CD0D3
+}
+
+.sidebar a:visited {
+    color: #8CD0D3
 }
