@@ -268,3 +268,13 @@ a:hover {
 .sidebar a:hover {
     color: #7F9F7F;
 }
+
+
+.sidebar a:visited {
+    color: #8CD0D3;
+}
+
+
+a:visited {
+    color: #F0DFAF;
+}
