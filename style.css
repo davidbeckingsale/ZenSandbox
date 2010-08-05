@@ -256,22 +256,15 @@ a:link {
     color: #F0DFAF;
 }
 
-a:visited {
-    color: #F0DFAF;
-}
-
 a:hover {
-    color: #7F9F7F
+    color: #7F9F7F;
 }
 
 .sidebar a:link {
-    color: #8CD0D3
+    color: #8CD0D3;
 }
 
-.sidebar a:visited {
-    color: #8CD0D3
-}
 
 .sidebar a:hover {
-    color: #7F9F7F
+    color: #7F9F7F;
 }
