@@ -11,12 +11,12 @@ TAGS: sandbox, widgets, starter theme, minimalist, zenburn, two-column, fixed-wi
 /* Two-column with sidebar on right from the /examples/ folder  */
 @import url('examples/2c-r.css');
 
-/* Just some example content */
+/* Just some example content 
 div.skip-link {
     position:absolute;
     right:1em;
     top:1em;
-}
+} */
 
 /** Header */
 
@@ -74,21 +74,25 @@ div#header {
 
 /** Body */
 
+/* Set the foreground and background colour of container div, which is
+wrapped around the content and sidebar */
 div#container,div#primary {
     background-color: #3F3F3F;
     color: #DCDCCC;
 }
-
+/* Set the background colour of the content div */
 div#content {
     background-color: #3F3F3F;
 }
 
+/* General body settings, including font */
 body {
     background-color: #333333;
     font-family: Arial, Helvetica, Verdana, sans-serif;
     color: #DCDCCC;
 }
 
+/* Font size of post meta information and date */
 div.entry-meta,div.entry-date {
     font-size: 12px;
 }
