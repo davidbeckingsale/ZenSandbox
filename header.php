@@ -12,6 +12,10 @@
 
 <body class="<?php sandbox_body_class() ?>">
 
+	<div id="access">
+		<?php sandbox_globalnav() ?>
+	</div><!-- #access --> 
+
 <div id="wrapper" class="hfeed">
 
 	<div id="header">
@@ -19,6 +23,3 @@
 		<div id="blog-description">"<?php bloginfo('description') ?>"</div>
 	</div><!--  #header -->
 
-	<div id="access">
-		<?php sandbox_globalnav() ?>
-	</div><!-- #access -->
