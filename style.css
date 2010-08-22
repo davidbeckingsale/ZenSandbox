@@ -60,6 +60,9 @@ div#menu ul li:hover ul {
     clear:both;
 }
 
+ul.children {
+    font-size: 16px;
+}
 
 div#access {
     background-color: #333333;
