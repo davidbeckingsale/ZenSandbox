@@ -60,7 +60,7 @@ div#menu ul li:hover ul {
     clear:both;
 }
 
-.children li{
+div#menu ul li ul li a{
     font-size: 16px;
 }
 
