@@ -38,8 +38,8 @@ div#menu ul,div#menu ul ul {
 
 div#menu ul a {
     display:block;
-    margin-right:1em;
-    padding:0 0.5em;
+    margin-right:0;
+    padding:0 3px;
     text-decoration:none;
 }
 
